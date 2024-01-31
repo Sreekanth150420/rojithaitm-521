@@ -41,7 +41,8 @@ Make sure the `vagrant@your-initials` is in the screenshot
 
 ### PySpark ScreenShot
 
-Place PySpark screenshot here
+<img width="937" alt="rojitha pyspark sc" src="https://github.com/PRojitha/rojithaitm-521/assets/156778308/cd6662da-acb4-418f-b266-f05dd2f178c9">
+
 
 ### SBT build Output Screenshot
 
