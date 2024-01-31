@@ -46,11 +46,11 @@ Make sure the `vagrant@your-initials` is in the screenshot
 
 ### SBT build Output Screenshot
 
-Place screenshot here
+<img width="822" alt="sbt build rojitha" src="https://github.com/PRojitha/rojithaitm-521/assets/156778308/5cf8ed75-a71d-4f1d-98e3-684c15cdcef6">
 
 ### Spark Scala ScreenShot
 
-Place Scala screenshot here
+<img width="922" alt="spark with scala rojitha sc" src="https://github.com/PRojitha/rojithaitm-521/assets/156778308/ae44ff8e-7c6f-4037-9ee6-8600b38a08f7">
 
 ## Deliverables
 
